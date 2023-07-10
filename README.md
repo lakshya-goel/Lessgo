@@ -27,7 +27,7 @@ Links have been provided to sites where prototypes and other elements were origi
     - Interviews
     - Indentifying Mistakes
 
-![Survey](Images/problem_survey)
+![Survey](Images/problem_survey.jpg)
 
 - **Ideation**
     - Possible Solutions
@@ -35,22 +35,22 @@ Links have been provided to sites where prototypes and other elements were origi
 
 - [**Mind Map**](https://miro.com/app/board/uXjVOI46eFo=/)
 - [**Storyboard** ](https://drive.google.com/drive/folders/1AbM9yxGmV8Uu7rKHNGmm5E5BlinwyjIq)
-![Storyboard](Images/storyboard)
+![Storyboard](Images/storyboard.jpg)
 - [**Low Fidelity Prototype** ](https://drive.google.com/drive/folders/15ufw3dfdPEFSICRyW-BpFv7ZtV74LiXy?usp=sharing)
-![Lofi](Images/lofi_prototype)
+![Lofi](Images/lofi_prototype.jpg)
 - [**High Fidelity Prototype**](https://www.figma.com/proto/o7fpp9c7XiyfBgPxudSmoa/Lessgo?node-id=486%3A932&scaling=scale-down&page-id=0%3A1&starting-point-node-id=486%3A952)
-![Hifi](Images/hifi_1)
-![Hifi](Images/hifi_2)
-![Hifi](Images/hifi_3)
-![Hifi](Images/hifi_4)
-![Hifi](Images/hifi_5)
+![Hifi](Images/hifi_1.png)
+![Hifi](Images/hifi_2.png)
+![Hifi](Images/hifi_3.png)
+![Hifi](Images/hifi_4.png)
+![Hifi](Images/hifi_5.png)
 - **Evaluation**
     - Plan
     - Interviews
     - Suggestions
-![Survey](Images/solution_survey)
+![Survey](Images/solution_survey.jpg)
 - **Iterative Improvements**
-![Cycle](Images/cycle)
+![Cycle](Images/cycle.jpg)
 - **Limitations and Development Possibilities**
 - [**Presentation**](https://www.canva.com/design/DAE975nzPy8/QLzmMr3nzz_XdQnPCRjbIQ/edit?utm_content=DAE975nzPy8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [**Video**](https://drive.google.com/drive/folders/1pZzAzGfEJcUi6XqfVmAhdMVfAPTeHpWp?usp=sharing)
